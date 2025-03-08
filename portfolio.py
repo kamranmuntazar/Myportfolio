@@ -64,3 +64,4 @@ elif page == "Aim 🎯":
 # Footer
 st.sidebar.markdown("---")
 st.sidebar.markdown("© 2023 My Portfolio. All rights reserved. 🚀")
+st.balloons()
